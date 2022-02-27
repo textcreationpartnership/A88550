@@ -1,0 +1,546 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord's-day to be kept holy Asserted in a familiar conference betwixt two friends about the unlawfulness of exercising their trades or ordinary callings on that day. Published for the use of ignorant people, to prevent the prophanation of that holy day. Licens'd, July 19. 1694. Edward Cooke·</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88550</idno>
+            <idno type="STC">Wing L3060C</idno>
+            <idno type="STC">ESTC R224912</idno>
+            <idno type="EEBO-CITATION">99896344</idno>
+            <idno type="PROQUEST">99896344</idno>
+            <idno type="VID">154269</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154269)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2408:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord's-day to be kept holy Asserted in a familiar conference betwixt two friends about the unlawfulness of exercising their trades or ordinary callings on that day. Published for the use of ignorant people, to prevent the prophanation of that holy day. Licens'd, July 19. 1694. Edward Cooke·</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Marshal at the Bible in Newgate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sunday --  Biblical teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154269:1" rendition="simple:additions"/>
+            <p>THE <hi rend="blackletterType">Lord's-Day</hi> TO BE KEPT HOLY. Aſſerted in a Familiar Conference BETWIXT TWO FRIENDS About the Unlawfulneſs of Exerciſing their Trades or Ordinary Callings on that Day. Publiſhed for the Uſe of Ignorant People, to prevent the Prophanation of that Holy Day.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENS'D,</p>
+                        <closer>
+                           <dateline>
+                              <date>July 19. 1694.</date>
+                           </dateline>
+                           <signed>Edward Cooke.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Marſhal</hi> at the
+<hi>Bible</hi> in <hi>Newgate-ſtreet.</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154269:2"/>
+            <pb n="1" facs="tcp:154269:2"/>
+            <head>THE LORD's-DAY TO BE KEPT HOLY, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </speaker>
+               <p>SIR, A good Morning to you, How do you do to day? I have made bold to viſit you this Morning, hoping I have not broke the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ds of our Friendſhip in my Reproof laſt Night, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he exerciſing of your Trade on the <hi>Lord's-Day.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed I was a little concern'd our Diſpute hapned ſo <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> laſt Night, that we could not come to a Conclu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, which occaſions my coming this Morning.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </speaker>
+               <p>Mr. <hi>B.</hi> I am glad to ſee you this Morning with
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y heart, and, for my part, I am ſo far from break<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Bonds of Friendſhip with you, that I heartily
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you for your mild Reproof, though I cannot be <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>our mind, nor think it ſo great a Sin as you <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of; for was I convinced it is a Sin, I would
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> exerciſing my Trade on that day for the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </speaker>
+               <p>Truly Mr. <hi>S.</hi> I think our heavenly Father hath
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ough to convince you and I that it is a Sin, in<pb n="2" facs="tcp:154269:3"/>theſe words, <hi>Remember thou keep Holy the Sabbat<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Becauſe it was commanded by God to <hi>Adam</hi> i<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Innocency; and if it was neceſſary for our fir<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> rents to have and keep a <hi>Sabbath day</hi> to ſerve G<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> their ſtate of Perfection, much more need thei<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſterity to keep the
+<hi>Lord's-day</hi> in this ſtate of Co<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tion. And ſeeing that God himſelf keeps this
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Holy, How can that Man be Holy, that doth w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> profane it, by following his ordinary Calli<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Trade on that day? Beſides, You ſee that God
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> placed this Commandment in the middle of the <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tables, with a watch-word of ſolemn preparatio<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it, <hi>Remember that thou keep Holy the Sabbath-day</hi> if this was to be kept above all the reſt, becauſe
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> keeping of it is the beſt help to the keeping a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> reſt.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Mr. <hi>B.</hi> In all this you ſay very well, but l<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> tell you, That Chriſt is Lord of the Sabbath, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> remitted the rigor of <hi>Moſes</hi>'s Law; for it's ſaid
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Sabbath was made for Man.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>In this Mr. <hi>S.</hi> you make for me, and no<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> your ſelf; 'tis true indeed, <hi>The Sabbath was m<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Man:</hi> But not to follow his Trade, or ſpen<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> time in Tipling at Alehouſes or Taverns. It
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> made for Man to buy the Bread of Heaven, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Water of Life;
+'tis a Market day for our Soul, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we may buy the Food of Angels, the Wine o<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Sacrament, and the Milk of the Word of Go<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> feed our Souls, which is to be had without <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and without price. And as you ſay Chriſt is Lo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Sabbath, which ought to make us admire the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>derful work of our Redemption, he being Lo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <pb n="3" facs="tcp:154269:3"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Day, we ought to ſpend our Time in his Service<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d keep the Day to him, who roſe on this Day from
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Dead, that we may raiſe our Minds and Souls to <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>wneſs of Life, and make all our Works ſpiritual;
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaith the Lord by the Prophet, <hi>Iſa.</hi> 58. the 13<hi rend="sup">th</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d 14<hi rend="sup">th</hi> verſes, <hi>And call the Sabbath a delight, the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y of the Lord, honourable, and ſhalt honour him, not
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thine own ways, nor finding thine own pleaſure, <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſpeaking thine own words: Then ſhalt thou delight
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſelf in the Lord, and I will cauſe thee to ride <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>on the high places of the earth, and feed thee with the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ritage of</hi> Jacob <hi>thy father: for the mouth of the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rd hath ſpoken it.</hi>
+               </p>
+               <p>And I think I may ſay God hath writ it over and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver again with his own Fingers in Tables of Stone, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſignify his Authority and Perpetuity of it; for all
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at God wrote were moral and perpetual Command<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nts, and theſe are reckoned Ten in number; if this <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere taken away by Chriſt, or was now but an abro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed Ceremony, then there would be but Nine Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andments: But to end this Controverſy, Chriſt pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſeth in <hi>Matth.</hi> 5.17. <hi>That he came not to deſtroy the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oral Law;</hi> but, as the Learned Dr. <hi>Hammond</hi> para<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aſeth upon it, to repair and make up whatſoever
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s any ways wanting: inſomuch that our Saviour <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> again in the
+19<hi rend="sup">th</hi> verſe, <hi>Whoſoever therefore
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> break one of theſe least Commandments, and ſhall <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> men ſo, he ſhall be called the least in the Kingdom of
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ven:</hi> Or be deſpiſed and rejected by God in <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e day of Judgment, according to the ſaid Para<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>raſe.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Indeed Mr <hi>B.</hi> you have almoſt convinced me;
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut if I ſhould leave off Trading on this day, others <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill not, and ſo I ſhall loſe my Cuſtomers, it being<pb n="4" facs="tcp:154269:4"/>ſo much practiſed, or elſe I would leave off fo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> future.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I am glad Mr. <hi>S.</hi> to hear this ingenuous C<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>feſſion from you, but am ſorry you ſhould miſtr<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God's Providence, when it is in him <hi>we live and mo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and have all our Being;</hi> for let me tell you plain<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that this will avail but little in the laſt day: we m<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not anſwer there, when God calls us to account fo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the breach of this day, that we feared loſing o<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Trade, or did it to get a Livelihood, this will not <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cuſe the breaking of the Commandments. And <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> others will do it, that will be no Excuſe for me;
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if Ten thouſand break a Commandment, that w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not give me a Diſpenſation, and make me guiltleſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> others doing of it is no Argument that it is no S<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> therefore that muſt not be my Rule to go by, w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> am obliged by my Baptiſmal Vow to fight again<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the World, and all appearance of Evil. Where Go<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> commands, it is my Duty to obey, and not fear w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the world will ſay, or the loſing my Trade; b<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> do my Duty to him, and leave the Event to h<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Providence, as <hi>Abraham</hi> did in the offering
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Son; and I think it will not be amiſs to ſhe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you an Inſtance of God's Providence in ſuch a Caſe a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yours is.</p>
+               <p>It was to a Friend of mine ſome time ſince, I think it not proper to mention his Name, he was a Baker by Trade, but ever thought it unlawful to heat his Oven on the <hi>Lord's-day,</hi> ſo that he did not do it; and being importuned by ſeveral to heat it, he would not yield, but went to ſome pious and learned Di<g ref="char:EOLunhyphen"/>vines, to know whether it was Lawful or no, they told him it was not, except in Caſes of Neceſſity<g ref="char:punc">▪</g> but neither he nor they thought it needful for<pb n="5" facs="tcp:154269:4"/>him or his Servants to work on that day to bake Pud<g ref="char:EOLhyphen"/>dings or Bread, ſince it was ſo plain a Breach of the Fourth Commandment.</p>
+               <p>The Baker, being a good Man, did not raiſe theſe ſilly Objections, of loſing his Trade, which you and other Men ſeem to do; he loved to diſcharge his Duty to God, and in ſo doing, left the Event to his Provi<g ref="char:EOLhyphen"/>dence. And tho ſome of his Cuſtomers left him, becauſe he would not bake Puddings, or ſell Bread on the <hi>Lords-day,</hi> that did not move the good Man, or make him miſtruſt God's Providence. And as God loves to reward his Servants in a viſible manner, ſo in this Caſe, to let the beſotted world ſee what happineſs they miſs, in not ſerving him; for the Scene here ſoon altered, and, in a little time, his Cuſtomers began to come again in greater numbers than they went away; and he had ſo great a Trade on the week-days, that himſelf ſaid he deſired no greater ſo long as he lived. I might have given a fuller Account of this good Man, but it would take up too much of our time at preſent.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Truly Mr. <hi>B.</hi> I wiſh there were more ſuch Men as this you ſpeak of, for indeed he had a better Faith than I have.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Truly your Wiſh is good, but wiſhing will not do the work of God, therefore ſtrive to make your ſelf what you deſire others to be, and in this degenerate Age ſhew your ſelf an Example to others; for God delights in a Free-will Offering, and expects his Ser<g ref="char:EOLhyphen"/>vants ſhould wait upon him in the midſt of Difficul<g ref="char:EOLhyphen"/>ties. If we will give ourſelves time to conſider, his wages are infinitely beyond our labour; our Task is ſhort,
+<pb n="6" facs="tcp:154269:5"/>but our Reſt will be long; and the reward of Obe<g ref="char:EOLhyphen"/>dience will be great, though the beſotted world will not ſee it.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>'Tis ſomething ſtrange, if it is ſo great a Sin as you ſpeak of, that ſo many hundreds of Alehouſes, Taverns and Coffee-houſes ſhould be ſo much fre<g ref="char:EOLhyphen"/>quented, and they not ſee the greatneſs of this Sin, though ſome of them are counted honeſt Men.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is ſtrange, as you ſay, that ſo many ſhould do it, and not ſee the greatneſs of the Sin, though I am apt to believe they do, but their Intereſt keeps them from believing in good earneſt; however if they can<g ref="char:EOLhyphen"/>not, or will not ſee their Sin, that's no Example for you and I, as I told you before, though Ten thouſand do it, that doth not take off the Sin. You ſee ſome hundreds will cozen and ſwear, and be drunk, yet all this while the Sin is great; for it is ſaid, <hi>They ſhall not inhabit the new</hi> Jeruſalem.</p>
+               <p>And ſo here the Commandment is plain; for on the
+<hi>Lord's-day, Thou ſhalt not do any manner of Work</hi> (except Works of Neceſſity, Mercy or Charity) <hi>neither thou, and thy Son, and thy Daughter, thy Man-ſervant, and thy Maid-ſervant, and thy Cattel, and the Stranger that is within thy Gates:</hi> For, let me tell you, the Sin is greater, and aggravating ſo much the more, in being done <hi>by a multitude,</hi> which we are <hi>not to fol<g ref="char:EOLhyphen"/>low to do Evil.</hi> And though you think ſome of them Honeſt Men that do ſo, yet they may be Carnal; and if ſo, the Apoſtle tells us, <hi>The Carnal Man cannot con<g ref="char:EOLhyphen"/>ceive the things of the Spirit of God, neither doth he know them, becauſe they are ſpiritually diſcerned.</hi> You will find all good Men in every Age have lookt upon it as a Sin, and ſome Hundreds have writ againſt it, alſo<pb n="7" facs="tcp:154269:5"/>the Laws of the Land are levelled againſt it, but I wiſh they were put more in execution againſt all thoſe Men that profane the Sabbath.</p>
+               <p>It is not long ſince our Gracious QUEEN did ſend a Letter to the Juſtices of <hi>Middleſex,</hi> I believe you may remember it, to put the Laws in execution againſt prophaning the <hi>Lord's-day,</hi> and other Sins; And in the Order which the Juſtices put out, They were to puniſh all Perſons that frequented either Ale<g ref="char:EOLhyphen"/>houſes, Taverns or Coffee-houſes, as well out of Di<g ref="char:EOLhyphen"/>vine Service as in; And that none ſhould expoſe their Goods to Sale on the <hi>Lord's-day.</hi> This put me in mind of a Friend of mine who was walking along the Streets at that time, and ſeeing a Woman expo<g ref="char:EOLhyphen"/>ſing her Fruit and Herbs to Sale, he ſpoke to her of the ill Conſequence of it, and told her, <hi>She ought to go to Church, and ſerve God.</hi> The Woman reply'd, She took more Money on the <hi>Lord's-day</hi> than any day of the week, and ſhe could not live if ſhe did not do it.</p>
+               <p>
+                  <hi>My Friend,</hi> ſaid he to the good woman, <hi>if you would but keep the</hi> Lord's-day <hi>as you ought, and not ſell your things on that day, but ſhut up your Cellar, and go to Church, and ſerve God; and when you come home, ſpend your time in reading the Word of God, uſing Prayer, and rendring Praiſes to him for all his Mercies. In ſo doing, you need not doubt but God will be infinitely kind, and ſend a bleſſing upon your Labour the reſt of the Week, which you cannot expect while you make a Market-day of his Sab<g ref="char:EOLhyphen"/>bath.</hi>
+               </p>
+               <p>The woman accepted of his Counſel, took in her things, ſhut up her doors, and went to Church. My Friend call'd upon the poor woman ſome time after, and ſhe was glad to ſee him, and thanked him for his
+<pb n="8" facs="tcp:154269:6"/>good Advice, ſaying, She had found his words true; for ever ſince ſhe had kept the Sabbath-day, ſhe ſold more things on Mondays and Tueſdays, than before ſhe uſed to do all the week.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Your Friend I think did very well, I wiſh others would do the ſame; for this Story of yours puts me in mind of a Book that I have of Sir
+<hi>Matthew Hales</hi>'s, where he ſaith ſomething to this effect if I am not miſtaken: If you pleaſe I'll fetch the Book, and read that Paſſage to you.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I Pray do, if it be not too great a trouble for you.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <q rend="inline">"The Paſſage is this, 'tis in a Letter to his Chil<g ref="char:EOLhyphen"/>dren: Becauſe I have by long and ſound Expe<g ref="char:EOLhyphen"/>rience found that the due obſervance of this Day, <hi>[meaning the Lord's-day]</hi> and the Duties of it, have been of ſingular Comfort and Advantage to me, and I doubt not but it will prove ſo to you. God Almighty is Lord of our Time, and lends it to us, and it is but juſt we ſhould conſecrate this part of that Time to him; ſo I have found by a ſtrict and diligent Obſervation, that a due Obſervation of this Day, hath ever had joined to it a Bleſſing upon the reſt of my Time, and the week that hath ſo begun hath been bleſſed and proſperous to me.
+<p>"On the other ſide, when I have been negli<g ref="char:EOLhyphen"/>gent of the Duties of this Day, the reſt of the week hath been unſucceſsful and unhappy to my own ſecular Employment; ſo that I could ea<g ref="char:EOLhyphen"/>ſily make an Eſtimate of my Succeſſes in my own ſecular Employments the week following, by the manner of my paſſing of this day, and this<pb n="9" facs="tcp:154269:6"/>I do not write lightly or inconſiderably, but up<g ref="char:EOLhyphen"/>on a long and ſound Obſervation and Experience, becauſe I find in the world much Looſneſs and A<g ref="char:EOLhyphen"/>poſtacy from their Duty. People begin to be Cold and Careleſs in it, allowing themſelves Sports and Recreations, and Secular Imployments in it, with<g ref="char:EOLhyphen"/>out any neceſſity, which is a ſad Spectacle, and an ill preſage. It concerns me therefore (that am your Father) as much as I may to reſcue you from that Sin which the Examples of others, and the Incli<g ref="char:EOLhyphen"/>nations, and Inconſiderateneſs of Youth is other<g ref="char:EOLhyphen"/>wiſe apt to lead you into."</p>
+                  </q>
+               </p>
+               <p>I will read no further at this time to you, by rea<g ref="char:EOLhyphen"/>ſon I would have ſome more Diſcourſe with you, ſince you have been ſo kind to come and ſpend this time with me.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I think what you have read to me is much to the purpoſe of what I came to you about; I am glad to ſee you have ſo good a Book, I hope you will read it a little oftner than I fear you have done, pray pardon my courſe Complement, for I fear you have not much minded it heretofore; for I find here is further Directions in this Book, for he ſaith, <hi>It is not a neceſſity to do a work upon this Day, when it might be done upon another Day;</hi> this makes me more admire at you, having ſo good a Book, and in it ſo good Reaſons againſt the exerciſing of your Trade on the Lord's-Day; for ſhame be of another mind, and leave off for the future.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Alas! I have a great many good Books, though with ſhame I may ſay it, I have not minded them:<pb n="10" facs="tcp:154269:7"/>I have the <hi>Practice of Piety,</hi> and the <hi>Duty of Man,</hi> be<g ref="char:EOLhyphen"/>ſides the Holy Bible, and other good Books; I hope God will forgive me for the neglect of them. In<g ref="char:EOLhyphen"/>deed I was never ſo much convinced as I am at this time by your Diſcourſe; that for the future, through the Grace of God, I will be more careful.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I pray God you may; I would fain recom<g ref="char:EOLhyphen"/>mend to you that Paſſage in the <hi>Practice of Piety</hi> about keeping the Lord's-Day, ſince you ſay you have the Book; and when you read it, apply it to your ſelf, and conſider well the truth of what is ſaid; do not read it careleſly, but conſider your Soul lies at ſtake, and it is worth your taking care of: I pray you pardon me for being ſo earneſt with you, for I deſire no other thing than the good of your Soul.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>I thank you heartily for taking ſo much pains with me, I am ſatisfied you do it for my good; and my own Conſcience tells me I ought to take your advice, only I am afraid of loſing my Trade, except others would leave off as well as me, and I could do it chearfully.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Alas, This is a Childiſh reaſoning; for if other men will poiſon themſelves, why ſhould you; if other men be never ſo bad, that's no Example for you to follow; if they are unreaſonable, why ſhould you loſe your Wits; do but look upon your Soul as worth more than all the Riches of the World; And if other men will venture the hazard of their Souls by prophaning this Day of the Lord's, why ſhould you; if they drink, cheat and abuſe them<g ref="char:EOLhyphen"/>ſelves, muſt you do ſo too; How can you be afraid
+<pb n="11" facs="tcp:154269:7"/>of want, when you do not ſee a Bird ſtarve or die for want of food? and if we cannot live ſo high as we have done before, yet you will find more content; for how can want be ſo grievous, when we conſider the Author and Captain of our Salvation was in want, and his Followers were ſo too, and yet did live in Heaven; therefore if thy Calling is an occaſion of ſinning, away with it, and turn Plowman or Servant, rather than live in a breach of a known Command, or Sin; <hi>Seek firſt the Kingdom of heaven, and its righteouſneſs,</hi> and look after the Concerns of your Soul; and then as for Neceſſaries, thy God will not ſuffer thee to want them.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>I am convinced, and through the Grace of God I will leave off exerciſing my Trade on the Lord's-Day for the future.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I muſt confeſs you make my heart rejoice to hear this Anſwer from you; I pray God keep you always in the ſame mind; and I do not doubt but you will find a great deal of comfort in it, and more than at preſent you can expect; and this put me in mind of a certain Friend of mine that kept a Coffee-houſe, and he would not ſell any Coffee on the Lord's-Day; ſome of his Cuſtomers began to leave him; and though he was ſo ſtrict as they call it, becauſe he would not open his Doors on that day to let in men to drink a Diſh of Coffee, they told him that they thought there was no harm in it; but, ſaid he, that will not excuſe me who think it is harm; for if I may follow my Calling, you may as well follow yours; and ſince you think it is a ſin for you to open your Shop, and keep your Servants<pb n="12" facs="tcp:154269:8"/>at work; Why ſhould I keep mine, ſince making and ſelling of Coffee is work to my Servants. I think they ought not to do it, nor my ſelf neither, for I never did, nor I hope never ſhall.</p>
+               <p>The Man was as good as his word, and certainly he loſt nothing by it, for he is now become a rich Man, and I hope you will follow his Example. For I think it is a great ſhame to ſee ſo many keep their Servants at home to draw drink, and others to ſell things when they ſhould be at Church, or in Reading the Word of God, or in ſome other Exerciſe ſutable for the day, for it is counted a Perſecution when we are forced from the Church and Publick Wor<g ref="char:EOLhyphen"/>ſhip. If then there can be a Perſecution, I think he that denies himſelf, and his Servants, the Oppor<g ref="char:EOLhyphen"/>tunity of coming to the Publick Worſhip of God on the <hi>Lord's-day,</hi> is his own Perſecutor. So that I am afraid it doth too evidently appear in many places, that God is more diſhonoured, and the De<g ref="char:EOLhyphen"/>vil better ſerved on that day, than all the Days of the Week beſides; and for ought I know, the Judg<g ref="char:EOLhyphen"/>ments we now lie under, may be owing to the Pro<g ref="char:EOLhyphen"/>phaner of the <hi>Lord's-day;</hi> for when we conſider how much Righteouſneſs exalteth a Nation, ſo Sin is a Reproach to any People. We have reaſon to be<g ref="char:EOLhyphen"/>wail this National Sin, and do all that lies in our Power to Remedy it; and I think we have reaſon to pray for theſe Magiſtrates, that put the Law in Execution againſt thoſe that prophane the <hi>Lord's-day.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>I have no more to ſay againſt what you have ſaid, only this, I wiſh that your Diſcourſe with me at this time, was all Written or Printed, That I<pb n="13" facs="tcp:154269:8"/>might communicate it to ſome of my Brother-Tra<g ref="char:EOLhyphen"/>ders, in hopes that it might convince ſome of them, as now it hath done me, bleſſed be God for it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I am willing to do all the good I can, and if you think this Diſcourſe may be of any uſe to the Publick Good, I will recollect my mind, and write it out for you.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>In ſo doing, you will very much oblige me, and I hope it will convince ſome others alſo, as well as my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Dear Friend, having performed my promiſe, ſo far as I can remember, I have written our diſ<g ref="char:EOLhyphen"/>pute; but I muſt recommend it to you with a little Advice, it being written in ſuch a homely Dreſs that when you communicate it to your Friends, you would deſire them to conſider the good Intention, and the truth of what is ſaid, and in that nature ap<g ref="char:EOLhyphen"/>ply it to themſelves; and in ſo doing, to read it over and over again, not as School boys do their Leſſons but as one that is in danger of his Soul by living in the Sin it treats of For ſince I had this Diſ<g ref="char:EOLhyphen"/>courſe with you, I met with an honeſt Man that hath kept an Ale-houſe for Twenty or Thirty years; and I telling him ſome part of our Diſcourſe, he told me, That ſo long as he had kept an Ale-houſe, he never let any Company come into his Houſe to drink on the <hi>Lord's-day.</hi> And he thought he had a better Trade by ſo doing; and ſaid further to our Diſcourſe, That he could wiſh all Men would do the ſame, for he believeth they would live better<pb n="14" facs="tcp:154269:9"/>without a <hi>Sunday-trade,</hi> than with it. Having theſe words from a good Man that hath felt the Comfort and Benefit of ſerving God on this day, I write them down that others may take Example by him, for I do aſſure you of the truth of it, as well as I do of all the reſt.</p>
+               <p>So praying that it may do good to your Friends, as well to your ſelf. I muſt deſire once more they would apply it to their own Souls, it being purely deſigned for God's Glory, and their Good.</p>
+            </sp>
+            <closer>
+               <signed>Which ſhall be the hearty Prayer of your ever Loving Friend and Brother in Chriſt Jeſus to ſerve you, B.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="further_reading">
+            <p>☞ Judgments upon Sabbath breakers and other wick<g ref="char:EOLhyphen"/>edneſſes, <hi>Read theſe Scriptures following,</hi> Exodus 31.14.
+<hi>and</hi> Exod. 35.2. Numb. 15. <hi>from</hi> 30. <hi>v. to</hi> 37. Ezek.
+20.12,13, <hi>&amp;c. Read</hi> 22. <hi>and</hi> 23. <hi>Chapters, of</hi> Ezek. Jer. 17.27. Nehemiah <hi>ch.</hi> 13. 15. <hi>v. to the</hi> 23. Lev.
+26.14. <hi>&amp;c.</hi>
+            </p>
+            <p>Promiſes Annex'd to the Keeping of the Sabbath,
+<hi>Leviticus</hi> 26.2,3,4. &amp; <hi>Iſa</hi> 56.2. <hi>Iſa.</hi>
+58.13,14. <hi>Jer.</hi> 17.24,25. <hi>Iſa.</hi> 56.2, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Books ſold by <hi>William Marſhall</hi> at the Bible in
+<hi>Newgate-ſtreet.</hi>
+            </head>
+            <list>
+               <item>Meditations and Diſcourſes concerning the Glo<g ref="char:EOLhyphen"/>ry of Chriſt; Applied unto unconverted Sinners and Saints, under ſpiritual decays, by Dr. <hi>Owen,</hi> price bound 1 <hi>s.</hi> where you may be ſupplied with moſt of Dr. <hi>Owen's</hi> Writings, and Mr.
+<hi>Beverly's.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
